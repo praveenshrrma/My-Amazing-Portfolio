@@ -76,6 +76,7 @@ While React’s built-in state management is sufficient for now, as the project 
 
 Analytics & Monitoring:
 I plan to integrate more advanced analytics and monitoring tools (such as Google Analytics and Sentry) to track user behavior, identify performance bottlenecks, and quickly address errors that might affect user experience.
+
 ---
 
 ## 📚 Lessons Learned
